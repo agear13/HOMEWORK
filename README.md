@@ -3,11 +3,11 @@
 
 ## Overview and Origin
 
-# Name of company#
+# Name of company
 
 The name of the company is Dapper Lab. 
 
-#When was the company incorporated?#
+# When was the company incorporated?
 
 Found at Dapperlab.com, the company was founded in February of 2018. 
 
