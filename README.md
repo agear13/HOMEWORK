@@ -144,3 +144,32 @@ This banking app would utilise Blockchain, Etherum, Smart Contracts and other fi
 # Why are these technologies appropriate for your solution?
 
 Blockchain, particularly, Etherum is appropriate for the solution because the decentralisation of bank transfers makes for faster and more efficient money transfers. 
+
+
+# Sources
+
+https://www.crunchbase.com/organization/dapper-labs
+
+
+https://news.bitcoin.com/the-daily-crypto-game-developer-raises-15m-bitcoin-pioneer-faces-lawsuit/
+
+(https://www.coindesk.com/nba-top-shot-cryptokitties-firm-dapper-labs-raising-250m-at-2b-valuation-report)
+
+https://www.dapperlabs.com/#mission
+
+https://www.theblockcrypto.com/daily/94772/dapper-labs-nba-topshot-fundraise-250-million
+
+https://finance.yahoo.com/video/dapper-labs-ceo-discusses-digital-182406663.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJzvh4pHxfnyLEB-wwHuTq1c9FHeNOS3TUYNHrbAsaK1Uf5npdbZ7b5Fx4Sol7wg01ASeMbwUkWJktMH-Bq3NomdhcF9s6ERoN5FMcnUqxxe6wcWrUigJB4ABxPKCxcPNBZG0dVf5mAZvFZYPwLGqxcb3h_LBdT52ZflAqoXhKLW
+
+https://builtwith.com/Dapper
+
+
+https://101blockchains.com/history-of-blockchain-timeline/
+
+https://builtin.com/blockchain/blockchain-companies-roundup
+
+
+https://www.samsungnext.com/blog/why-we-invested-in-dapper-labs
+
+ 
+https://medium.com/@wmougayar/a-guide-for-blockchain-usage-metrics-bed86b58df94
